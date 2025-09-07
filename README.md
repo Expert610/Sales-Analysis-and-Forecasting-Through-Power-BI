@@ -1,0 +1,2 @@
+# Sales-Analysis-and-Forecasting-Through-Power-BI
+The Superstore dataset has been analyzed using Power BI to create comprehensive interactive reports . The analysis covers sales, profit, customers, products, regions, and shipping insights, supported by key performance indicators. In addition, forecasting models have been applied to project future sales trends, enabling data-driven decision-making.
