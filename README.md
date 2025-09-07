@@ -124,4 +124,3 @@ The Power BI report consists of multiple dashboards designed to deliver insights
 * [Microsoft Power BI Documentation](https://learn.microsoft.com/en-us/power-bi/)
 
 
-👉 Do you also want me to include a **“Future Work” section** (e.g., applying machine learning models outside Power BI like ARIMA, Prophet, or integrating with Python/R in Power BI) to make it look even more professional for academic or portfolio submission?
