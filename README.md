@@ -1,5 +1,7 @@
 # Superstore Sales Analysis – Power BI Reports
 
+![sales dashboard image](sales.png)
+
 ## 📌 Project Overview
 
 This project focuses on analyzing the **Superstore dataset** using **Power BI** to uncover valuable business insights. The dataset contains transactional-level information about sales, profit, customers, products, and regions, enabling the creation of interactive dashboards and comprehensive reports.
